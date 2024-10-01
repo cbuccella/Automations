@@ -1,7 +1,7 @@
 # Research Assistant Automation
 
 ## Introduction
-This automation leverages the Perplexity AI API and GPT agents to streamline your content creation process. By inputting a research topic, you'll generate comprehensive research, email summaries, LinkedIn posts, and blog outlines - all tailored to your brand voice and style, with a focus on FP&A professionals.
+This automation leverages the Perplexity AI API and GPT agents to streamline your content creation process. By inputting a research topic, you'll generate comprehensive research, email summaries, LinkedIn posts, and blog outlines - all tailored to your brand voice and style.
 
 ## Step-by-step automation workflow in Make.com:
 
