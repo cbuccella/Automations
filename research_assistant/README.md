@@ -36,7 +36,7 @@ To enhance your automation setup, the following templates are available via Goog
 
 1. 📄 JSON template (https://github.com/cbuccella/automations/blob/main/research_assistant/Research_Assistant_Make.json)
 2. 🔗 LinkedIn post agent knowledge base template (https://github.com/cbuccella/automations/blob/main/research_assistant/comprehensive-linkedin-post-guide.md))
-3. 📝 Blog Writer knowledge base template (https://drive.google.com/file/d/1YrWUqCPf2Q0dRbgrTR4M2InFwPQJwHHo/view?usp=drive_link)
+3. 📝 Blog Writer knowledge base template (https://github.com/cbuccella/automations/blob/main/research_assistant/seo-creative-blog-writing-guide.md)
 
 These templates can be used to customize and fine-tune your GPT agents for optimal performance in generating LinkedIn posts and blog content tailored to FP&A professionals. These versions shared will help get you started.
 ```
