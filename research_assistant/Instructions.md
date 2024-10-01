@@ -35,8 +35,8 @@ This automation leverages the Perplexity AI API and GPT agents to streamline you
 To enhance your automation setup, the following templates are available via Google Drive links below:
 
 1. 📄 JSON template
-2. 🔗 LinkedIn post agent knowledge base template
-3. 📝 Blog Writer knowledge base template
+2. 🔗 LinkedIn post agent knowledge base template (https://drive.google.com/file/d/1j3vUNn_ksL9o-Dmacd-YXXJw-Fz5EIg6/view?usp=sharing)
+3. 📝 Blog Writer knowledge base template (https://drive.google.com/file/d/1YrWUqCPf2Q0dRbgrTR4M2InFwPQJwHHo/view?usp=drive_link)
 
 These templates can be used to customize and fine-tune your GPT agents for optimal performance in generating LinkedIn posts and blog content tailored to FP&A professionals. These versions shared will help get you started.
 ```
