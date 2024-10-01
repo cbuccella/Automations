@@ -25,6 +25,8 @@ This automation leverages the Perplexity AI API and GPT agents to streamline you
 | 🔗 Path 2 | LinkedIn post | 1. Add a GPT module (OpenAI or custom integration).<br>2. Configure the module with your custom GPT agent trained for LinkedIn posts.<br>3. Use a prompt like: "Turn this research into a short, engaging, and easy to read LinkedIn post that encourages professional development, education, and learning new things within the world of FP&A. It should encourage the audience to interact and engage with the post. Include relevant hashtags. Ensure that the message is less than 1500 characters. {{1.choices[].message.content}}"<br>4. **(Optional)** Add a LinkedIn module to directly post the content, or store it in a database for review. |
 | 📝 Path 3 | Blog outline | 1. Add another GPT module.<br>2. Configure this module with your custom GPT agent focused on blog writing.<br>3. Use the following prompt (note that this includes functions and connections within the Make scenario): "Turn this research into a short, engaging, and SEO-based blog that is targeted at FP&A professionals including professional development, education, and learning new things within the world of FP&A. {{1.choices[].message.content}}"<br>4. Add a Google Sheets module to append the blog outline to a specified spreadsheet. |
 
+<img src="research_assistant_workflow.png" alt="flowchart" width="1000" height="600">
+
 5. 🧪 **Testing and optimization:**
    * Run test scenarios to ensure all paths are working correctly.
    * Adjust module configurations and GPT prompts as needed to refine the output.
