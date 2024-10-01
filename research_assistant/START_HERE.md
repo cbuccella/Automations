@@ -3,7 +3,9 @@
 ## Introduction
 This automation leverages the Perplexity AI API and GPT agents to streamline your content creation process. By inputting a research topic, you'll generate comprehensive research, email summaries, LinkedIn posts, and blog outlines - all tailored to your brand voice and style.
 
-## Step-by-step automation workflow in Make.com:
+Download the template to get started on Make.com here: 
+
+## Step-by-step automation workflow in Make.com:  (https://github.com/cbuccella/automations/blob/main/research_assistant/Research_Assistant_Make.json)
 
 1. 🚀 **Set up a trigger:**
    * Choose an appropriate trigger (e.g., manual, scheduled, or webhook) to initiate the automation.
