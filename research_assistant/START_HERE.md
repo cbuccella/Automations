@@ -36,7 +36,7 @@ Step-by-step automation workflow in Make.com:  (https://github.com/cbuccella/aut
 ## Additional Resources
 To enhance your automation setup, the following templates are available via Google Drive links below:
 
-1. 📄 JSON template (https://github.com/cbuccella/automations/blob/main/research_assistant/Research_Assistant_Make.json)
+1. 📄 JSON template (https://github.com/cbuccella/automations/blob/main/research_assistant/make_template_research_.json)
 2. 🔗 LinkedIn post agent knowledge base template (https://github.com/cbuccella/automations/blob/main/research_assistant/comprehensive-linkedin-post-guide.md))
 3. 📝 Blog Writer knowledge base template (https://github.com/cbuccella/automations/blob/main/research_assistant/seo-creative-blog-writing-guide.md)
 4. 🔍 Perplexity prompt template (https://github.com/cbuccella/automations/blob/main/research_assistant/perplexity_prompt_template.md)
