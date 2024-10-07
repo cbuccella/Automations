@@ -10,6 +10,8 @@
 
 ## Setup Instructions
 
+Download the template to get started on Make.com here: 
+
 Connecting Google Sheet to Start the Automation
 
 1. Add Make.com Extension
