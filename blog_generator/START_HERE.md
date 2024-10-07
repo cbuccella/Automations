@@ -8,9 +8,13 @@
    * OpenAI
 * Google connection to Make.com
 
+## Automation Overview
+
+<img src="Blog_Automation_Workflow.png" alt="Blog_Automation" width="700" height="250">
+
 ## Setup Instructions
 
-Download the template to get started on Make.com here: 
+Download the template to get started on Make.com here: (https://github.com/cbuccella/automations/blob/main/blog_generator/BLOG_ASSISTANT_MAKE_SCENARIO_.json)
 
 Connecting Google Sheet to Start the Automation
 
